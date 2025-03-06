@@ -1,1 +1,1 @@
-# Quadratic_Equation_Calculato_javar
+# Quadratic_Equation_Calculator_javar
